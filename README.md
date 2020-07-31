@@ -1,3 +1,3 @@
-#Banco de Examenes de la Asociación de Estudiantes de Computación e Informática
+**Banco de Examenes de la Asociación de Estudiantes de Computación e Informática**
 ---
-##Si desea añadir examenes al banco, favor enviarlos al correo: aecci.bancoexamenes.ucr@gmail.com
+**Si desea añadir examenes al banco, favor enviarlos al correo: aecci.bancoexamenes.ucr@gmail.com**
