@@ -1,4 +1,4 @@
-# 📚 Banco de Examenes AECCI
+# Banco de Examenes AECCI
 
 Archivo historico colaborativo de materiales academicos para estudiantes y docentes de la **Escuela de Ciencias de la Computacion e Informatica (ECCI)** de la Universidad de Costa Rica.
 
@@ -53,11 +53,3 @@ El proyecto esta desplegado con:
 - **GitHub Actions** -- CI/CD automatico con cada contribucion aprobada
 - Etc. Se pueden ver los detalles en <https://github.com/ebai03/cursoteca>
 
----
-
-## 📬 Contacto
-
-Tenes dudas, sugerencias o queres reportar un problema?
-
-- Abri un [Issue](../../issues) en este repositorio
-- Envia un correo a **esteban.baires@ucr.ac.cr**
