@@ -44,12 +44,3 @@ O alternativamente, enviar los archivos directamente a **esteban.baires@ucr.ac.c
 - Cuidar la privacidad: no subir informacion personal de estudiantes o docentes
 
 ---
-
-## Infraestructura
-
-El proyecto esta desplegado con:
-
-- **Docker & Docker Compose** -- contenedores para portabilidad
-- **GitHub Actions** -- CI/CD automatico con cada contribucion aprobada
-- Etc. Se pueden ver los detalles en <https://github.com/ebai03/cursoteca>
-
